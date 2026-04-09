@@ -1,0 +1,52 @@
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ CLASS - Zamowienia \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+1. DODANO ATRYBUTY:
+
+private ArrayList<Produkt> listaProduktow; // W kazdym zamowieniu musi byc informacja o produktach
+private int numerZamowenia; // Musi byc wygenerowane przy kazdym utworzeniu zamowenia
+
+private Adres adresDostawy = null;
+
+private int status;
+private double wartoscBrutto, wartoscNetto; // Ten wartosci moga byc 241.42 lub 421.0
+
+2. MODYFIKOWANO KONSTRUKTOR:
+
+this.listaProduktow = new ArrayList<Produkt>();
+this.listaProduktow.add(produkt); // Zamowenie jest stworzono kiedy dodano 1 produkt
+
+3. DODANO METODY:
+
+private String getProdutStringFromList(List<Produkt> array) {
+        StringBuilder result = new StringBuilder();
+        for (int i = 0; i < array.size(); i++) {
+            if (i == array.size() - 1) {
+                result.append(array.get(i).getName()).append(" ");
+            } else {
+                result.append(array.get(i).getName()).append(", ");
+            }
+        }
+        return result.toString();
+    }
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ CLASS - Produkt \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+1. DODANO METODY
+
+// Dla latwego korzystania z tej wartosci (nazwa)
+public String getName(){
+        return this.nazwa;
+    }
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ CLASS - Klient \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+public int getRabat() {
+    return this.rabat;
+}
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
