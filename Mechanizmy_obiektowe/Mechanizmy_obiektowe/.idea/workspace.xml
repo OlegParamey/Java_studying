@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e734d180-08d5-4063-8b78-b3d6368ada85" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mechanizmy_obiektowe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Adres.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dostawa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Firma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IZamowlenia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Klient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lista zmian" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListaZamowien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OdbiorOsobisty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OsobaFizyczna.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Paczkomat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Produkt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrzesylkaKurierska.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zamowienie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-2/Czesc2/ZadanieCzesc2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-2/Czesc2/ZadanieCzesc2/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-3/.idea/lab-3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-3/Lab3_Z_2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-3/Lab3_Z_2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-3/Lab3_Z_2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-3/Lab3_Z_2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-3/Lab3_Z_2/Lab3_Z_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-3/Lab3_Z_2/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;OlegParamey&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/OlegParamey/Java_studying.git&quot;,
+    &quot;accountId&quot;: &quot;1bc858c4-2bd4-4164-9de0-b81f2c5e7638&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="11" />
+      <option value="14" />
+      <option value="15" />
+      <option value="16" />
+      <option value="300" />
+    </hideBySeverity>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3BNmnrFE0l9u4XbDdfgVJDd0OV0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/oleh/Java/Mechanizmy_obiektowe/Mechanizmy_obiektowe&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/oleh/Java/Mechanizmy_obiektowe/Mechanizmy_obiektowe/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e734d180-08d5-4063-8b78-b3d6368ada85" name="Changes" comment="" />
+      <created>1774338073472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774338073472</updated>
+      <workItem from="1774338074555" duration="4058000" />
+      <workItem from="1774342171079" duration="581000" />
+      <workItem from="1774430343951" duration="2780000" />
+      <workItem from="1774619396482" duration="441000" />
+      <workItem from="1774890459550" duration="238000" />
+      <workItem from="1775636460867" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
